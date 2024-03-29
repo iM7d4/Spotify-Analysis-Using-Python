@@ -25,9 +25,7 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 
 ## Project - Spotify Data Analysis using Python
 
-Download the datasets along with the code.
-
-### Objective
+Click <a href="https://drive.google.com/drive/folders/1qnPaY_WDTimPJHvdeJZd6EnADQRtt4dH?usp=sharing">here</a> to get the datasets!
  
 1. **Top 10 most popular songs on Spotify**
 
